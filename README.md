@@ -2,7 +2,7 @@
 **Author**: Michael Etienne Van Huffel, Vadim Lebovici, Olympio Hacquard, Matteo Palo
 
 ## Description
-Implementation of QuPID for Persistence Diagrams.
+Implementation of QuPID vectorization for Persistence Diagrams.
 
 ## Overview
 This repository contains the official implementation of QuPID, a method for embedding Persistence Diagrams into elements of vetor spaces. It showcases the integration of such vectorization technique in the context of graph classification, dynamical particles classification, and tumor immune cells classification.
