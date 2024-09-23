@@ -24,7 +24,7 @@ To reproduce the analysis environment, you will need Python 3.6 or later. Please
 
 ```bash
 git clone git@github.com:majkevh/qupid.git
-cd spectral-master
+cd qupid
 pip install -r requirements.txt
 ```
 
