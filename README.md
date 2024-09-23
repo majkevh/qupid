@@ -32,7 +32,8 @@ pip install -r requirements.txt
 - `data/`: Contains some of the datasets used in the notebooks. For conducting experiments involving graph data, I utilized datasets and functions sourced from the [*PersLay*](https://github.com/MathieuCarriere/perslay) and [*ATOL*](https://github.com/martinroyer/atol) repositories. 
 
 ## Citation
-If you use this project, please cite: [![DOI](https://zenodo.org/badge/829908288.svg)](https://zenodo.org/doi/10.5281/zenodo.13827944)
+If you use this project, please cite: 
+[![DOI](https://zenodo.org/badge/829908288.svg)](https://zenodo.org/doi/10.5281/zenodo.13827944)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
