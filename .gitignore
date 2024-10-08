@@ -1,0 +1,48 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# macOS files
+.DS_Store
+.MACOSX
+
+# Data files
+data/
+*.h5
+
+# Environments
+.env
+.venv
+ENV/
+env/
+venv/
+
+# Other Scripts
+other_scripts/
+
+# Git
+.git/
