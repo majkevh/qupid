@@ -1,5 +1,5 @@
 # QuPID: Discrete transforms of Quantized PersIstence Diagrams
-**Author**: Anonymous
+**Author**: Michael Etienne Van Huffel, Olympio Hacquard, Vadim Lebovici, Matteo Palo 
 
 ## Description
 Implementation of QuPID vectorization for Persistence Diagrams.
